@@ -1,1 +1,2 @@
-Lag en README.md med din fulle navn og URL til din Github account
+https://github.com/felixlhh/
+Felix Leon Hammond
