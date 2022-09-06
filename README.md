@@ -1,9 +1,8 @@
-Lag en README.md med din fulle navn og URL til din Github account
+Fullt navn på aktive medlemmer i gruppen og URL til Github-kontoer
 
-Arman Mangal https://github.com/arman7203
-
-Felix Leon Hammond https://github.com/felixlhh/
-
-Shekina Lokoto https://github.com/Shekina22
-
-Tobias Kinn https://github.com/Hanegalen
+| Navn | URL til Github-konto |
+| :-----------: | :-------------------------------------------: |
+| Arman Mangal | [Github-konto](https://github.com/arman7203) |
+| Felix Leon Hammond | [Github-konto](https://github.com/felixlhh) |
+| Shekina Lokoto | [Github-konto]( https://github.com/Shekina22) |
+| Tobias Kinn | [Github-konto](https://github.com/Hanegalen) |
