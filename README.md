@@ -1,4 +1,4 @@
-Fullt navn på aktive medlemmer i gruppen og URL til Github-kontoer
+## Fullt navn på aktive medlemmer i gruppen og URL til Github-kontoer
 
 | Navn | URL til Github-konto |
 | :-----------: | :-------------------------------------------: |
