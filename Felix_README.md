@@ -1,3 +1,3 @@
 | Navn           | URL Github-konto |
 | :------------: | :------------------------- |
-| Tobias Kinn | https://github.com/Hanegalen 
+| Felix Leon Hammond | https://github.com/felixlhh |
